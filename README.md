@@ -21,8 +21,8 @@ Aber was kommt für Dich dabei rum? Zunächst sollte gesagt sein, dass Du maßge
 <br>
 Na, neugierig geworden? [Dann klick' dich doch jetzt durch unseren Prototypen!](https://xd.adobe.com/view/d158c4c9-9d55-4e3d-b2c5-a9cd02325eab-840b/?fullscreen&hints=off "Unser Prototyp")
 <br>
-<br>
 ![iPhone_12_Pro_Max_1 3](https://user-images.githubusercontent.com/73226873/109401843-5462b900-7951-11eb-9e60-f9860dc97ede.PNG)
+<br>
 <br>
 Gute Fahrt wünscht 
 <br>
