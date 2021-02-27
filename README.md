@@ -13,7 +13,9 @@ Zusätzlich wird die App ergänzt durch Empfehlungen der städtischen Umweltbeau
 <br>
 Aber was kommt für Dich dabei rum? Zunächst sollte gesagt sein, dass Du maßgeblich zu einer lebenswerteren Umwelt beiträgst. Wir sind alle dafür verantwortlich, unseren Planeten zu bewahren. Doch obendrauf warten auf dich fette Prämien, die Du durch Punktesammeln beim umweltfreundlichen Fahren erzielst. Sei es ein fancy Mehrweg Coffee To-Go Becher für den Arbeitsweg oder die schicke Laptoptasche, die im Büro alle Augen auf sich zieht. 
 <br>
-Also worauf wartest Du noch? Lade Dir jetzt die App im App- oder Playstore herunter. Gute Fahrt wünscht 
+Also worauf wartest Du noch? Lade Dir jetzt die App im App- oder Playstore herunter. 
+<br>
+Gute Fahrt wünscht 
 <br>
 <br>
 **Been A Pleasure**
