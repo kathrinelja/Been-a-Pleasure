@@ -1,5 +1,5 @@
 ## Productname: Been a Pleasure - BAP
-**Slogan: ...not only for you, but also the environment...**
+*Slogan: ...not only for you, but also the environment...*
 <br>
 <br>
  M04-Submission im Rahmen des MESH Innovation Summit by StuV DHBW Stuttgart.
@@ -18,8 +18,8 @@ Aber was kommt für Dich dabei rum? Zunächst sollte gesagt sein, dass Du maßge
 <br>
 Also worauf wartest Du noch? Lade Dir jetzt die App im App- oder Playstore herunter. Gute Fahrt wünscht 
 <br>
-**Been A Pleasure<br> 
-Not only for you, but also the environment.** 
+**Been A Pleasure**<br> 
+*Not only for you, but also the environment.*
 <br>
 <br>
 proudly presented by:<br>
