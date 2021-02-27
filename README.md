@@ -23,7 +23,6 @@ Na, neugierig geworden? [Dann klick' dich doch jetzt durch unseren Prototypen!](
 <br>
 ![iPhone_12_Pro_Max_1 3](https://user-images.githubusercontent.com/73226873/109401843-5462b900-7951-11eb-9e60-f9860dc97ede.PNG)
 <br>
-<br>
 Gute Fahrt wünscht 
 <br>
 <br>
