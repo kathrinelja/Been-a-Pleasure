@@ -1,5 +1,10 @@
-## Productname: Been a Pleasure - BAP
-*Slogan: ...not only for you, but also the environment...*
+
+
+## Been a Pleasure - BAP
+![BAP_transparent_neu](https://user-images.githubusercontent.com/73226873/109401523-912db080-794f-11eb-9011-df3bddf7bca8.PNG)
+<br>
+<br>
+*...not only for you, but also the environment...*
 <br>
 <br>
  M04-Submission im Rahmen des MESH Innovation Summit by StuV DHBW Stuttgart.
